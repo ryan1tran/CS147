@@ -1,0 +1,105 @@
+{C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/alu.v} {1 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/state_machine_tb.v} {1 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/state_machine_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module STATE_MACHINE_TB
+
+Top level modules:
+	STATE_MACHINE_TB
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/da_vinci_tb.v} {2 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/da_vinci_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DA_VINCI_TB
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/da_vinci_tb.v(62): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	DA_VINCI_TB
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/clk_gen.v} {2 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/clk_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CLK_GENERATOR
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/clk_gen.v(32): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	CLK_GENERATOR
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/register_file.v} {1 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/register_file.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module REGISTER_FILE_32x32
+
+Top level modules:
+	REGISTER_FILE_32x32
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/da_vinci.v} {2 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/da_vinci.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DA_VINCI
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/da_vinci.v(43): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	DA_VINCI
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/alu_tb.v} {1 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/alu_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_TB
+
+Top level modules:
+	ALU_TB
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/control_unit.v} {2 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/control_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CONTROL_UNIT
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/control_unit.v(304): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+-- Compiling module PROC_SM
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/control_unit.v(362): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/processor.v} {2 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/processor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PROC_CS147_SEC05
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/processor.v(54): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	PROC_CS147_SEC05
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/register_file_tb.v} {2 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/register_file_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module REGISTER_FILE_TB
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/register_file_tb.v(94): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	REGISTER_FILE_TB
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/memory.v} {1 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEMORY_64MB
+
+Top level modules:
+	MEMORY_64MB
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/prj_definition.v} {1 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/prj_definition.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/mem_64MB_tb.v} {2 {vlog -work work -stats=none {C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/mem_64MB_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_64MB_TB
+** Warning: C:/Users/Ryan 3.0/Desktop/College Stuff/Spring 2020/CS 147/proj_2/notminelol/mem_64MB_tb.v(110): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	MEM_64MB_TB
+
+} {} {}}
